@@ -1,5 +1,5 @@
 #description
-editorial project, scheduled to be published on Jan 2016.
+Editorial project, scheduled to be published on Jan 2016.
 
 #Usage
 
