@@ -1,7 +1,7 @@
 #description
 editorial project, scheduled to be published on Jan 2016.
 
-#Usage
+#usage
 
 `git clone https://github.com/FTChinese/interactive-report.git`
 
